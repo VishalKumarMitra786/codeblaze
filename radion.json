@@ -230,6 +230,92 @@
           "link": "link/to/your/profile"
         }
       ]
+    },
+    {
+      "employeeId": 1005,
+      "name": "Jinit Trivedi",
+      "designation": "General Manager(Operation)",
+      "emailId": "imran@codeblaze.com",
+      "contactNumber": "+91 8758833454",
+      "displayPicUrl": "./assets/img/team/gm.jpg",
+      "quote": "quotequotequotequotequotequotequotequotequotequote",
+      "hobbies": [
+        {
+          "hobby": "Art",
+          "description": "Leonrado Vinchi"
+        }
+      ],
+      "skillSet": [
+        {
+          "skill": "Operation Management",
+          "description": ""
+        },
+        {
+          "skill": "Admin Management",
+          "description": ""
+        }
+      ],
+      "employeeLinks": [
+        {
+          "site": "facebook",
+          "link": "link/to/your/profile"
+        },
+        {
+          "site": "Linkedin",
+          "link": "link/to/your/profile"
+        },
+        {
+          "site": "Stackoverflow",
+          "link": "link/to/your/profile"
+        },
+        {
+          "site": "Github",
+          "link": "link/to/your/profile"
+        }
+      ]
+    },
+    {
+      "employeeId": 1005,
+      "name": "Jinit Trivedi",
+      "designation": "General Manager(Operation)",
+      "emailId": "imran@codeblaze.com",
+      "contactNumber": "+91 8758833454",
+      "displayPicUrl": "./assets/img/team/gm.jpg",
+      "quote": "quotequotequotequotequotequotequotequotequotequote",
+      "hobbies": [
+        {
+          "hobby": "Art",
+          "description": "Leonrado Vinchi"
+        }
+      ],
+      "skillSet": [
+        {
+          "skill": "Operation Management",
+          "description": ""
+        },
+        {
+          "skill": "Admin Management",
+          "description": ""
+        }
+      ],
+      "employeeLinks": [
+        {
+          "site": "facebook",
+          "link": "link/to/your/profile"
+        },
+        {
+          "site": "Linkedin",
+          "link": "link/to/your/profile"
+        },
+        {
+          "site": "Stackoverflow",
+          "link": "link/to/your/profile"
+        },
+        {
+          "site": "Github",
+          "link": "link/to/your/profile"
+        }
+      ]
     }
   ]
 
