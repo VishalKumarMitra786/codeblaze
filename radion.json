@@ -12,7 +12,7 @@
     "services": [
       {
         "name": "Android",
-        "description": "Android had a very humble beginning but today its one among the most versatile platform from a users as well as developer's prespective. Android started on mobiles but now runs on various device ranging from wearable to sophisticated UAV.",
+        "description": "Android had a very humble beginning but today its one among the most versatile platform from a users as well as developer's perspective. Android started on mobiles but now runs on various device ranging from wearable to sophisticated UAV.",
         "icon": "zmdi-android"
       },
       {
@@ -26,8 +26,8 @@
         "icon": "zmdi-code"
       },
       {
-        "name": "Other Web Plaform",
-        "description": "A combination of maturity and flexibilty with sprinkling of lots of high scalability over it and then cooked by our team, a perfect receipe for web-development.",
+        "name": "Other Web Platform",
+        "description": "A combination of maturity and flexibilty with sprinkling of lots of high scalability over it and then cooked by our team, a perfect recipe for web-development.",
         "icon": "zmdi-desktop-mac"
       }
     ],
@@ -44,22 +44,6 @@
       }
     ],
     "companyLinks": [
-      {
-        "site": "facebook",
-        "link": "link/to/your/profile"
-      },
-      {
-        "site": "Linkedin",
-        "link": "link/to/your/profile"
-      },
-      {
-        "site": "Stackoverflow",
-        "link": "link/to/your/profile"
-      },
-      {
-        "site": "Github",
-        "link": "link/to/your/profile"
-      }
     ],
     "address":"9/A-1, MANORATH COMPOUND OPP. C S PATEL ENCLAVES, PRATAPGUNJ Vadodara - 390002 Gujarat - India",
     "contactNumber":"+91-9662649880",
@@ -88,23 +72,8 @@
         }
       ],
       "employeeLinks": [
-        {
-          "site": "facebook",
-          "link": "link/to/your/profile"
-        },
-        {
-          "site": "linkedin",
-          "link": "link/to/your/profile"
-        },
-        {
-          "site": "stackoverflow",
-          "link": "link/to/your/profile"
-        },
-        {
-          "site": "github",
-          "link": "link/to/your/profile"
-        }
-      ]
+        
+       ]
     },
     {
       "employeeId": 1002,
@@ -148,20 +117,20 @@
       ],
       "employeeLinks": [
         {
-          "site": "facebook",
-          "link": "link/to/your/profile"
+          "site": "twitter",
+          "link": "https://mobile.twitter.com/vivekmitra786"
         },
         {
           "site": "linkedin",
-          "link": "link/to/your/profile"
+          "link": "https://www.linkedin.com/in/vivek-mitra-646820154"
         },
         {
           "site": "stackoverflow",
-          "link": "link/to/your/profile"
+          "link": "https://stackoverflow.com/users/1293744/kumar-vivek-mitra"
         },
         {
           "site": "github",
-          "link": "link/to/your/profile"
+          "link": "https://github.com/vickymitra786"
         }
       ]
     },
@@ -196,19 +165,15 @@
       "employeeLinks": [
         {
           "site": "facebook",
-          "link": "link/to/your/profile"
+          "link": "https://www.facebook.com/dhruvilbpatel"
         },
         {
           "site": "linkedin",
-          "link": "link/to/your/profile"
+          "link": "https://www.linkedin.com/in/dhruvil-patel-53ab0b85"
         },
         {
           "site": "stackoverflow",
-          "link": "link/to/your/profile"
-        },
-        {
-          "site": "github",
-          "link": "link/to/your/profile"
+          "link": "https://stackoverflow.com/users/1367157/dhruvil-patel"
         }
       ]
     },
@@ -239,21 +204,20 @@
       "employeeLinks": [
         {
           "site": "facebook",
-          "link": "link/to/your/profile"
+          "link": "https://www.facebook.com/jinit.trivedi"
         },
         {
           "site": "linkedin",
-          "link": "link/to/your/profile"
-        },
-        {
-          "site": "stackoverflow",
-          "link": "link/to/your/profile"
-        },
-        {
-          "site": "github",
-          "link": "link/to/your/profile"
+          "link": "https://www.linkedin.com/in/jinit-trivedi-003691141/"
         }
       ]
+    }
+  ],
+  "careers":[
+    {
+      "jobTitle": "Php Developer",
+      "description": "Experienced in developing APIs",
+      "years":"3 years"
     }
   ]
 
