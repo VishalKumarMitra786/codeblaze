@@ -12,7 +12,7 @@
     "services": [
       {
         "name": "Android",
-        "description": "Android had a very humble beginning but today its one among the most versatile platform from a users as well as developer's perspective. Android started on mobiles but now runs on various device ranging from wearable to sophisticated UAV.",
+        "description": "Android had a very humble beginning, but today its one among the most versatile platform from a user as well as developer's perspective. Android started on mobiles, but now runs on various devices ranging from wearable to sophisticated UAV.",
         "icon": "zmdi-android"
       },
       {
@@ -47,7 +47,7 @@
     ],
     "address":"9/A-1, MANORATH COMPOUND OPP. C S PATEL ENCLAVES, PRATAPGUNJ Vadodara - 390002 Gujarat - India",
     "contactNumber":"+91-9662649880",
-    "emailId":"accounts@radianceinternational.com.au"
+    "emailId":"info@codeblazetech.com"
   },
   "employees": [
     {
