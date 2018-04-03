@@ -17,7 +17,7 @@
       },
       {
         "name": "iOS",
-        "description": "iOS has an undisputed stature of a premium platform since the time it was launched. iOS provides a safe and healthy eco-system to its customers and to its developers to grow. iOS app backed by its rigorous in-housing testing before making it to market for real world uses, makes it more robust and no-trash proof.",
+        "description": "iOS has an undisputed stature of a premium platform since the time it was launched. iOS provides a safe and healthy eco-system to its customers and to its developers to grow. iOS app backed by its rigorous in-house testing before making it to the market for real world uses, makes it more robust and trash proof.",
         "icon": "zmdi-apple"
       },
       {
@@ -181,9 +181,9 @@
       "employeeId": 1004,
       "name": "Jinit Trivedi",
       "designation": "General Manager(Operation)",
-      "emailId": "imran@codeblaze.com",
+      "emailId": "info@codeblazetech.com",
       "contactNumber": "+91 8758833454",
-      "displayPicUrl": "./assets/img/team/gm.jpg",
+      "displayPicUrl": "./assets/img/team/gm.jpeg",
       "quote": "quotequotequotequotequotequotequotequotequotequote",
       "hobbies": [
         {
@@ -211,13 +211,277 @@
           "link": "https://www.linkedin.com/in/jinit-trivedi-003691141/"
         }
       ]
+    },
+    {
+      "employeeId":"0602003",
+      "name":"Sagar Tahelyani",
+      "desingation":"Senior Android Developer",
+      "emailId":"",
+      "contactNumber":"",
+      "displayPicUrl":"./assets/img/team/SagarTahelyani.jpg",
+      "hobbies":[
+          {
+              "hobby":"",
+              "description":""
+          }
+      ],
+      "skillSet":[
+          {
+              "skill":"Android",
+              "description":""
+          },
+          {
+              "skill":"Java",
+              "description":""
+          }
+      ],
+      "employeeLinks":[
+          {
+              "site":"",
+              "link":""
+          }
+      ]
+    },
+    {
+      "employeeId":"0602004",
+      "name":"Hetul Soni",
+      "desingation":"Senior iOS Developer",
+      "emailId":"",
+      "contactNumber":"",
+      "displayPicUrl":"./assets/img/team/hetul_soni.jpeg",
+      "hobbies":[
+          {
+              "hobby":"",
+              "description":""
+          }
+      ],
+      "skillSet":[
+          {
+              "skill":"iOS",
+              "description":""
+          },
+          {
+              "skill":"Swift",
+              "description":""
+          },
+          {
+              "skill":"Objective-C",
+              "description":""
+          }
+      ],
+      "employeeLinks":[
+          {
+              "site":"",
+              "link":""
+          }
+      ]
+    },
+    {
+      "employeeId":"0602005",
+      "name":"Sudhir Gadhvi",
+      "desingation":"Senior iOS Developer",
+      "emailId":"",
+      "contactNumber":"",
+      "displayPicUrl":"./assets/img/team/SudhirGadhvi.jpg",
+      "hobbies":[
+          {
+              "hobby":"",
+              "description":""
+          }
+      ],
+      "skillSet":[
+          {
+              "skill":"iOS",
+              "description":""
+          },
+          {
+              "skill":"Swift",
+              "description":""
+          }
+      ],
+      "employeeLinks":[
+          {
+              "site":"",
+              "link":""
+          }
+      ]
+    },
+    {
+      "employeeId":"0604001",
+      "name":"Nimesh Bhatt",
+      "desingation":"Senior QA-Software Tester",
+      "emailId":"",
+      "contactNumber":"",
+      "displayPicUrl":"./assets/img/team/NimeshBhatt.jpg",
+      "hobbies":[
+          {
+              "hobby":"",
+              "description":""
+          }
+      ],
+      "skillSet":[
+          {
+              "skill":"iOS",
+              "description":""
+          },
+          {
+              "skill":"Swift",
+              "description":""
+          }
+      ],
+      "employeeLinks":[
+          {
+              "site":"",
+              "link":""
+          }
+      ]
+    },
+    {
+      "employeeId":"0605001",
+      "name":"Mayur Salunke",
+      "desingation":"Senior Digital Marketing Manager",
+      "emailId":"",
+      "contactNumber":"",
+      "displayPicUrl":"./assets/img/team/Mayur_Salunke.jpeg",
+      "hobbies":[
+          {
+              "hobby":"",
+              "description":""
+          }
+      ],
+      "skillSet":[
+          {
+              "skill":"Digital Marketing",
+              "description":""
+          }
+      ],
+      "employeeLinks":[
+          {
+              "site":"",
+              "link":""
+          }
+      ]
+    },
+    {
+      "employeeId":"0605002",
+      "name":"Mayur Ghediya",
+      "desingation":"Senior SEO Executive",
+      "emailId":"",
+      "contactNumber":"",
+      "displayPicUrl":"./assets/img/team/MayurGhediya.jpg",
+      "hobbies":[
+          {
+              "hobby":"",
+              "description":""
+          }
+      ],
+      "skillSet":[
+          {
+              "skill":"SEO",
+              "description":""
+          }
+      ],
+      "employeeLinks":[
+          {
+              "site":"",
+              "link":""
+          }
+      ]
+    },
+    {
+      "employeeId":"0605003",
+      "name":"Rajesh Shrimali",
+      "desingation":"Senior SEO Executive",
+      "emailId":"",
+      "contactNumber":"",
+      "displayPicUrl":"./assets/img/team/RajShrimali.jpg",
+      "hobbies":[
+          {
+              "hobby":"",
+              "description":""
+          }
+      ],
+      "skillSet":[
+          {
+              "skill":"SEO",
+              "description":""
+          }
+      ],
+      "employeeLinks":[
+          {
+              "site":"",
+              "link":""
+          }
+      ]
+    },
+    {
+      "employeeId":"0605004",
+      "name":"Abbas Pithawala",
+      "desingation":"Senior SEO Executive",
+      "emailId":"",
+      "contactNumber":"",
+      "displayPicUrl":"./assets/img/team/AbbasPithawala.jpg",
+      "hobbies":[
+          {
+              "hobby":"",
+              "description":""
+          }
+      ],
+      "skillSet":[
+          {
+              "skill":"SEO",
+              "description":""
+          }
+      ],
+      "employeeLinks":[
+          {
+              "site":"",
+              "link":""
+          }
+      ]
+    },
+    {
+      "employeeId":"0603001",
+      "name":"Miral Patel",
+      "desingation":"Senior WordPress-Php Developer",
+      "emailId":"",
+      "contactNumber":"",
+      "displayPicUrl":"./assets/img/team/default.png",
+      "hobbies":[
+          {
+              "hobby":"",
+              "description":""
+          }
+      ],
+      "skillSet":[
+          {
+              "skill":"WordPress",
+              "description":""
+          }
+      ],
+      "employeeLinks":[
+          {
+              "site":"",
+              "link":""
+          }
+      ]
     }
   ],
   "careers":[
     {
-      "jobTitle": "Php Developer",
-      "description": "Experienced in developing APIs",
-      "years":"3 years"
+      "jobTitle": "Senior Php Developer",
+      "description": "Experienced in php backend handling",
+      "years":"4+ years"
+    },
+    {
+      "jobTitle": "Front End Developer",
+      "description": "Experienced in UI/UX, expertise in any particular JS Framework",
+      "years":"3+ years"
+    },
+    {
+      "jobTitle": "Wordpress Developer",
+      "description": "Experienced in handling Wordpress website and can create custom plugins",
+      "years":"2+ years"
     }
   ]
 
